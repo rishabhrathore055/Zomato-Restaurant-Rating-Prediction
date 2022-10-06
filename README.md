@@ -10,6 +10,7 @@ In this project, I am analysing the Zomato dataset to get a fair idea about the 
    * Ridge, 
    * RidgeCV
    * Lasso
+   * Decision Tree Regressor
 
 ### Show Your Support
 Give a ⭐ if You Like This Project
